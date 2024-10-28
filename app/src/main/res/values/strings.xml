@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">klinik</string>
+    <string name="sign_in">Sign In</string>
+    <string name="todo">TODO</string>
+    <string name="min_8_cyfr">Min 8 cyfr</string>
+    <string name="patient_self_com">patient@self.com</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="self_care">Self Care</string>
+</resources>
